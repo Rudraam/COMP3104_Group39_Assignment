@@ -5,7 +5,7 @@ George Brown College is a public college of applied arts and technology located 
 Key Facts:
 - Established: 1967
 - Location: Toronto, Ontario, Canada
-- Type: Public college of applied arts and technology
+
 
 Campuses:
 1. St. James Campus - Downtown Toronto
@@ -20,7 +20,7 @@ Notable Programs:
 - Dental Hygiene
 - Fashion Management
 - Event Planning
-- Computer Systems Technology
+
 
 Facilities:
 - Modern laboratories and workshops

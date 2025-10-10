@@ -29,14 +29,13 @@ Practical Tools Covered:
 - Git and GitHub for version control
 - Jenkins for CI/CD pipelines
 - Docker for containerization
-- Kubernetes for orchestration
-- Ansible for configuration management
+
 
 Project-Based Learning:
 - Build automated deployment pipelines
 - Create containerized applications
 - Implement infrastructure as code
-- Set up monitoring and alerting systems
+
 
 Assessment Methods:
 - Hands-on lab assignments (40%)
@@ -48,8 +47,6 @@ Learning Outcomes:
 Upon completion, students will be able to:
 - Design and implement CI/CD pipelines
 - Deploy applications using containerization
-- Manage cloud infrastructure programmatically
-
 
 
 Recommended Resources:
