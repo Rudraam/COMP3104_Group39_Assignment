@@ -1,1 +1,2 @@
 Third commit: the profs who teaches COMP 3104 DevOps course name is Patel.
+sixth commit: The online lecture for comp3104 is at 6pm to 9pm on Wednesday but most lasts 2 hours with the other hour used for questions
