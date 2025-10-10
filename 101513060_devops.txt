@@ -1,0 +1,3 @@
+Prof name: Pritesh Patel
+Lecture time for this section: 6-9 PM Wednesday
+Focus of the course: learn how to use Devops tools to enhance development (such as GitHub Actions, Jira, etc.)
