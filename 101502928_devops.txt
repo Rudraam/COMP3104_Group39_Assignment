@@ -11,10 +11,10 @@ Course Overview:
 Key Learning Areas:
 1. Version Control Systems (Git, GitHub)
 2. Continuous Integration/Continuous Deployment (CI/CD)
-3. Containerization (Docker, Kubernetes) for database Logging
+3. Containerization (Docker, Kubernetes) and Database Management
 4. Infrastructure as Code (IaC)
-
-
+5. Cloud Computing Platforms (AWS, Azure, GCP)
+6. Monitoring and Logging Systems
 
 Skills Developed:
 - Collaborative software development
@@ -28,13 +28,16 @@ Practical Tools Covered:
 - Git and GitHub for version control
 - Jenkins for CI/CD pipelines
 - Docker for containerization
-
+- Kubernetes for orchestration
+- AWS/Azure cloud services
+- Terraform for infrastructure as code
 
 Project-Based Learning:
 - Build automated deployment pipelines
 - Create containerized applications
 - Implement infrastructure as code
-
+- Configure monitoring and alerting systems
+- Deploy applications to cloud platforms
 
 Assessment Methods:
 - Hands-on lab assignments (40%)
@@ -46,7 +49,9 @@ Learning Outcomes:
 Upon completion, students will be able to:
 - Design and implement CI/CD pipelines
 - Deploy applications using containerization
-
+- Manage cloud infrastructure and services
+- Implement monitoring and logging solutions
+- Apply security best practices in DevOps workflows
 
 Recommended Resources:
 - "The DevOps Handbook" by Gene Kim

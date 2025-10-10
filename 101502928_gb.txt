@@ -71,7 +71,7 @@ School of Computer Technology offers cutting-edge programs:
    - Game programming in C# and Unity
    - 3D modeling and animation
    - Game design principles
-
+   - Virtual and augmented reality development
 
 4. Cyber Security (T109)
    - Ethical hacking and penetration testing
@@ -84,6 +84,8 @@ Industry Partnerships:
 - Cisco Networking Academy
 - VMware IT Academy
 - Amazon Web Services (AWS) Academy
+- Google for Education
+- IBM Academic Initiative
 
 Co-operative Education:
 Many programs offer co-op placements with industry partners:
@@ -98,6 +100,7 @@ Student Organizations:
 - Student Association (GBCSA)
 - Technology clubs and societies
 - Gaming and esports clubs
+- Coding bootcamps and hackathons
 
 
 Support Services:
@@ -106,6 +109,13 @@ Support Services:
 - Counselling and wellness support
 - International student services
 - Indigenous student support
+
+Library and Learning Resources:
+- Digital collections and databases
+- 24/7 online learning support
+- Collaborative study spaces
+- Technology lending program
+- Research assistance
 
 
 Campus Facilities:
@@ -124,7 +134,7 @@ Casa Loma Campus:
 
 Waterfront Campus:
 - Culinary labs and restaurants
-- Health simulation centres
+- Health simulation centers
 - Community services facilities
 - Waterfront location advantages
 
