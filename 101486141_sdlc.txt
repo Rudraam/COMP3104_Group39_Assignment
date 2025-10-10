@@ -13,7 +13,6 @@ IMPORTANCE OF LEARNING DEVOPS:
 - Supports continuous testing and delivery of updates.
 - Makes the workflow smoother and more organized.
 - Teaches useful skills needed in today’s tech jobs.
-- Helps bring new ideas and updates quickly.
 
 CONCLUSION:
 In conclusion, learning DevOps is a valuable skill in today’s software industry. It helps 
