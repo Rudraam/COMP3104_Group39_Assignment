@@ -1,0 +1,131 @@
+COMP 3104 DevOps Course Information
+
+COMP 3104 is a comprehensive DevOps course that introduces students to the principles, practices, and tools essential for modern software development and operations.
+
+Course Overview:
+- Course Code: COMP 3104 -GBC
+- Focus: DevOps methodologies and practices
+- Duration: One semester
+- Level: Advanced undergraduate
+
+Key Learning Areas:
+1. Version Control Systems (Git, GitHub)
+2. Continuous Integration/Continuous Deployment (CI/CD)
+3. Containerization (Docker, Kubernetes) and Database Management
+4. Infrastructure as Code (IaC)
+5. Cloud Computing Platforms (AWS, Azure, GCP)
+6. Monitoring and Logging Systems
+
+Skills Developed:
+- Collaborative software development
+- Automated testing and deployment
+- Infrastructure management
+
+
+
+
+Practical Tools Covered:
+- Git and GitHub for version control
+- Jenkins for CI/CD pipelines
+- Docker for containerization
+- Kubernetes for orchestration
+- AWS/Azure cloud services
+- Terraform for infrastructure as code
+
+Project-Based Learning:
+- Build automated deployment pipelines
+- Create containerized applications
+- Implement infrastructure as code
+
+Assessment Methods:
+- Hands-on lab assignments (40%)
+- Group project implementation (30%)
+- Technical presentations (15%)
+- Final comprehensive exam (15%)
+
+Learning Outcomes:
+Upon completion, students will be able to:
+- Design and implement CI/CD pipelines
+- Deploy applications using containerization
+- Manage cloud infrastructure and services
+
+Recommended Resources:
+- "The DevOps Handbook" by Gene Kim
+- "Site Reliability Engineering" by Google
+- Online platforms: AWS Training, Docker Documentation
+- "Continuous Delivery" by Jez Humble and David Farley
+- "Infrastructure as Code" by Kief Morris
+
+Industry Applications:
+DevOps practices are widely adopted across various industries:
+
+1. E-commerce Platforms
+   - Netflix: Microservices architecture with automated deployment
+   - Amazon: Continuous deployment with thousands of releases daily
+   - Spotify: Squad model for autonomous team operations
+
+2. Financial Services
+   - Capital One: Cloud-first DevOps transformation
+   - ING Bank: Agile and DevOps adoption for digital banking
+   - PayPal: Automated testing and deployment pipelines
+
+3. Technology Companies
+   - Google: Site Reliability Engineering (SRE) practices
+   - Microsoft: Azure DevOps platform development
+   - Facebook: Continuous integration at massive scale
+
+Emerging Trends in DevOps:
+
+1. Platform Engineering
+   - Internal developer platforms (IDPs)
+   - Self-service infrastructure provisioning
+   - Developer experience optimization
+
+2. AI/ML Operations (MLOps)
+   - Model deployment automation
+   - Data pipeline management
+   - Model monitoring and versioning
+
+3. Security Integration (DevSecOps)
+   - Shift-left security practices
+   - Automated security scanning
+   - Compliance as code implementation
+
+4. Cloud-Native Technologies
+   - Kubernetes orchestration
+   - Serverless computing
+   - Service mesh architectures
+
+Career Progression Paths offered:
+
+Entry Level:
+- Junior DevOps Engineer
+- Build and Release Engineer
+- Infrastructure Analyst
+
+Mid Level:
+- DevOps Engineer
+- Site Reliability Engineer
+- Cloud Engineer
+- Platform Engineer
+
+Senior Level:
+- Senior DevOps Architect
+- Principal Site Reliability Engineer
+- DevOps Team Lead
+- Cloud Solutions Architect
+
+Salary Expectations (Canada):
+- Entry Level: $60,000 - $80,000 CAD
+- Mid Level: $80,000 - $120,000 CAD
+- Senior Level: $120,000 - $180,000 CAD
+- Executive Level: $180,000+ CAD
+
+Certifications to Consider:
+- AWS Certified DevOps Engineer
+- Google Cloud Professional DevOps Engineer
+- Microsoft Azure DevOps Engineer Expert
+
+
+Conclusion:
+COMP 3104 provides a solid foundation for entering the rapidly growing DevOps field. The combination of theoretical knowledge and hands-on experience prepares students for immediate contribution to modern software development teams and positions them for long-term career growth in this dynamic industry.
