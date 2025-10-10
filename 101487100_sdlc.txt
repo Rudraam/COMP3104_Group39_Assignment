@@ -1,2 +1,3 @@
 Fourth commit: learn/helps to build and release software faster.
 seventh commit: learn to reduce errors through automation
+tenth commit:  learn to make projects run smoother 
