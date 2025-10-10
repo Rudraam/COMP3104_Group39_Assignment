@@ -1,2 +1,14 @@
 COURSE CODE: 3104
 COURSE NAME: DevOps
+PROFESSOR NAME: Pritesh Patel
+
+- DevOps is a way of working that brings developers and operations teams together.
+- Builds and deploys faster.
+- Focuses on teamwork and automation.
+- Improves software quality.
+- Enables continuous delivery.
+- Speeds up updates and fixes.
+- Reduces errors in releases.
+- Uses tools like Docker, Jenkins, and Git.
+- Encourages collaboration and feedback.
+- Makes processes more efficient.
