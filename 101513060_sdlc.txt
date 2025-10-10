@@ -2,4 +2,4 @@ Reasons to learn Devops as pertaining to SDLC:
 -Bridge development and operations --> smoother workflow
 -Enhance speed and reliability using CI/CD principles
 -Automation of builds, testing and deployment --> reduce unneeded repititions
--
+-Extending Agile principles
