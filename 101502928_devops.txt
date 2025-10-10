@@ -124,9 +124,7 @@ Certifications to Consider:
 - AWS Certified DevOps Engineer
 - Google Cloud Professional DevOps Engineer
 - Microsoft Azure DevOps Engineer Expert
-- Docker Certified Associate
-- Kubernetes Administrator (CKA)
-- Jenkins Engineer Certification
+
 
 Conclusion:
 COMP 3104 provides a solid foundation for entering the rapidly growing DevOps field. The combination of theoretical knowledge and hands-on experience prepares students for immediate contribution to modern software development teams and positions them for long-term career growth in this dynamic industry.

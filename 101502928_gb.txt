@@ -84,8 +84,6 @@ Industry Partnerships:
 - Cisco Networking Academy
 - VMware IT Academy
 - Amazon Web Services (AWS) Academy
-- Google for Education
-- IBM Academic Initiative
 
 Co-operative Education:
 Many programs offer co-op placements with industry partners:
@@ -100,7 +98,7 @@ Student Organizations:
 - Student Association (GBCSA)
 - Technology clubs and societies
 - Gaming and esports clubs
-- Coding bootcamps and hackathons
+
 
 Support Services:
 - Academic Success Centre

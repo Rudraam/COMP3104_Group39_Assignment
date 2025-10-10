@@ -34,13 +34,6 @@ Key Benefits in SDLC:
    - Implement automated monitoring and alerting
    - Use infrastructure as code for consistency
 
-
-Career Opportunities:
-- DevOps Engineer
-- Site Reliability Engineer (SRE)
-- Cloud Infrastructure Engineer
-
-
 Current Industry Trends:
 
 1. GitOps and Infrastructure as Code
