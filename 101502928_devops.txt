@@ -1,0 +1,70 @@
+COMP 3104 DevOps Course Information
+
+COMP 3104 is a comprehensive DevOps course that introduces students to the principles, practices, and tools essential for modern software development and operations.
+
+Course Overview:
+- Course Code: COMP 3104 -GBC
+- Focus: DevOps methodologies and practices
+- Duration: One semester
+- Level: Advanced undergraduate
+
+Key Learning Areas:
+1. Version Control Systems (Git, GitHub)
+2. Continuous Integration/Continuous Deployment (CI/CD)
+3. Containerization (Docker, Kubernetes) for database Logging
+4. Infrastructure as Code (IaC)
+5. Monitoring and Logging
+6. Automation and Scripting
+7. Cloud Platforms (AWS, Azure, GCP)
+8. Agile and Lean methodologies
+
+Skills Developed:
+- Collaborative software development
+- Automated testing and deployment
+- Infrastructure management
+- Problem-solving in distributed systems
+- Team collaboration and communication
+
+This course prepares students for real-world DevOps roles by providing hands-on experience with industry-standard tools and practices used in modern software development environments.
+
+Practical Tools Covered:
+- Git and GitHub for version control
+- Jenkins for CI/CD pipelines
+- Docker for containerization
+- Kubernetes for orchestration
+- Ansible for configuration management
+- Terraform for infrastructure provisioning
+- Prometheus and Grafana for monitoring
+
+Project-Based Learning:
+- Build automated deployment pipelines
+- Create containerized applications
+- Implement infrastructure as code
+- Set up monitoring and alerting systems
+
+Assessment Methods:
+- Hands-on lab assignments (40%)
+- Group project implementation (30%)
+- Technical presentations (15%)
+- Final comprehensive exam (15%)
+
+Learning Outcomes:
+Upon completion, students will be able to:
+- Design and implement CI/CD pipelines
+- Deploy applications using containerization
+- Manage cloud infrastructure programmatically
+- Monitor and troubleshoot distributed systems
+- Collaborate effectively in cross-functional teams
+
+Prerequisites:
+- COMP 1002 - Introduction to Web Development
+- COMP 2003 - Database Systems
+- COMP 2004 - Object-Oriented Programming
+- Basic understanding of Linux/Unix systems
+
+Recommended Resources:
+- "The DevOps Handbook" by Gene Kim
+- "Site Reliability Engineering" by Google
+- Online platforms: AWS Training, Docker Documentation
+- Community forums: Stack Overflow, Reddit DevOps
+- Certification paths: AWS DevOps, Docker Certified Associate
