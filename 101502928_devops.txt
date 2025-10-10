@@ -13,7 +13,7 @@ Key Learning Areas:
 2. Continuous Integration/Continuous Deployment (CI/CD)
 3. Containerization (Docker, Kubernetes) for database Logging
 4. Infrastructure as Code (IaC)
-5. Monitoring and Logging
+
 
 
 Skills Developed:
@@ -23,7 +23,7 @@ Skills Developed:
 - Problem-solving in distributed systems
 - Team collaboration and communication
 
-This course prepares students for real-world DevOps roles by providing hands-on experience with industry-standard tools and practices used in modern software development environments.
+
 
 Practical Tools Covered:
 - Git and GitHub for version control

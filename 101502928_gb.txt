@@ -26,7 +26,6 @@ Facilities:
 - Modern laboratories and workshops
 - Industry-standard equipment
 - Student residence
-- Athletic facilities
 - Library and learning commons
 
 Admission Requirements:
@@ -48,5 +47,3 @@ George Brown graduates have gone on to successful careers in:
 - Technology companies (Google, Microsoft, IBM)
 - Healthcare organizations
 - Financial institutions
-- Creative industries
-- Entrepreneurial ventures
