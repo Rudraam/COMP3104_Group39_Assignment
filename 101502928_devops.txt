@@ -36,8 +36,6 @@ Project-Based Learning:
 - Build automated deployment pipelines
 - Create containerized applications
 - Implement infrastructure as code
-- Configure monitoring and alerting systems
-- Deploy applications to cloud platforms
 
 Assessment Methods:
 - Hands-on lab assignments (40%)
@@ -50,8 +48,6 @@ Upon completion, students will be able to:
 - Design and implement CI/CD pipelines
 - Deploy applications using containerization
 - Manage cloud infrastructure and services
-- Implement monitoring and logging solutions
-- Apply security best practices in DevOps workflows
 
 Recommended Resources:
 - "The DevOps Handbook" by Gene Kim
@@ -100,7 +96,7 @@ Emerging Trends in DevOps:
    - Serverless computing
    - Service mesh architectures
 
-Career Progression Paths:
+Career Progression Paths offered:
 
 Entry Level:
 - Junior DevOps Engineer
