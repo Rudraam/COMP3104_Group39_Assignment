@@ -49,18 +49,10 @@ Upon completion, students will be able to:
 - Design and implement CI/CD pipelines
 - Deploy applications using containerization
 - Manage cloud infrastructure programmatically
-- Monitor and troubleshoot distributed systems
-- Collaborate effectively in cross-functional teams
 
-Prerequisites:
-- COMP 1002 - Introduction to Web Development
-- COMP 2003 - Database Systems
-- COMP 2004 - Object-Oriented Programming
-- Basic understanding of Linux/Unix systems
+
 
 Recommended Resources:
 - "The DevOps Handbook" by Gene Kim
 - "Site Reliability Engineering" by Google
 - Online platforms: AWS Training, Docker Documentation
-- Community forums: Stack Overflow, Reddit DevOps
-- Certification paths: AWS DevOps, Docker Certified Associate
