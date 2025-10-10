@@ -71,7 +71,7 @@ School of Computer Technology offers cutting-edge programs:
    - Game programming in C# and Unity
    - 3D modeling and animation
    - Game design principles
-   - Virtual and augmented reality
+
 
 4. Cyber Security (T109)
    - Ethical hacking and penetration testing
@@ -109,12 +109,6 @@ Support Services:
 - International student services
 - Indigenous student support
 
-Library and Learning Resources:
-- Digital collections and databases
-- 24/7 online learning support
-- Collaborative study spaces
-- Technology lending program
-- Research assistance
 
 Campus Facilities:
 

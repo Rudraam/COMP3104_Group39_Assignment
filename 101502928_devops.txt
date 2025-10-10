@@ -20,8 +20,7 @@ Skills Developed:
 - Collaborative software development
 - Automated testing and deployment
 - Infrastructure management
-- Problem-solving in distributed systems
-- Team collaboration and communication
+
 
 
 
@@ -114,11 +113,6 @@ Senior Level:
 - Principal Site Reliability Engineer
 - DevOps Team Lead
 - Cloud Solutions Architect
-
-Executive Level:
-- Director of Engineering
-- VP of Infrastructure
-- Chief Technology Officer
 
 Salary Expectations (Canada):
 - Entry Level: $60,000 - $80,000 CAD
