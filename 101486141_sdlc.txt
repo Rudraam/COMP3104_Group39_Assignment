@@ -1,0 +1,4 @@
+INTRODUCTION:
+DevOps is an important approach in modern software development that combines development and 
+operations to create a faster, more reliable, and efficient process. Learning DevOps helps 
+developers understand the full lifecycle of software — from coding to deployment and maintenance.
