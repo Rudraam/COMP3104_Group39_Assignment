@@ -73,12 +73,6 @@ School of Computer Technology offers cutting-edge programs:
    - Game design principles
    - Virtual and augmented reality development
 
-4. Cyber Security (T109)
-   - Ethical hacking and penetration testing
-   - Digital forensics
-   - Risk assessment and management
-   - Compliance and governance
-
 Industry Partnerships:
 - Microsoft Technology Associate (MTA) certification
 - Cisco Networking Academy
