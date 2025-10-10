@@ -43,11 +43,7 @@ Student Services:
 - Accessibility services
 - Mental health and wellness programs
 
-Industry Partnerships:
-- Co-op and internship programs with leading companies
-- Industry advisory committees for curriculum development
-- Guest lectures from industry professionals
-- Real-world project collaborations
+
 
 Alumni Success:
 George Brown graduates have gone on to successful careers in:
@@ -56,5 +52,3 @@ George Brown graduates have gone on to successful careers in:
 - Financial institutions
 - Creative industries
 - Entrepreneurial ventures
-
-Employment Rate: 85% of graduates find employment within 6 months of graduation

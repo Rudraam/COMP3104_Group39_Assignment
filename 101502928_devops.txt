@@ -14,9 +14,7 @@ Key Learning Areas:
 3. Containerization (Docker, Kubernetes) for database Logging
 4. Infrastructure as Code (IaC)
 5. Monitoring and Logging
-6. Automation and Scripting
-7. Cloud Platforms (AWS, Azure, GCP)
-8. Agile and Lean methodologies
+
 
 Skills Developed:
 - Collaborative software development
@@ -33,8 +31,6 @@ Practical Tools Covered:
 - Docker for containerization
 - Kubernetes for orchestration
 - Ansible for configuration management
-- Terraform for infrastructure provisioning
-- Prometheus and Grafana for monitoring
 
 Project-Based Learning:
 - Build automated deployment pipelines
