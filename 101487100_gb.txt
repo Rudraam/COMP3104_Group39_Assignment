@@ -1,2 +1,3 @@
 second commit: George brown is a college in Canada
-Fifth commit: George brown has 3 campuses downtown
+Fifth commit: George brown has 3 campuses 
+eighth commit: the names of the 3 campuses are the Casa Loma Campus, the St. James Campus, and the Waterfront Campus
