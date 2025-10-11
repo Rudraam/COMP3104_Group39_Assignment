@@ -1,0 +1,5 @@
+Better Teamwork
+
+Learning DevOps helps bring together development and operations teams, making communication and teamwork better. 
+This works together to cut down on delays, improve how things are coordinated, and make the software delivery process
+ run more smoothly all through the development cycle.
