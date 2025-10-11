@@ -1,11 +1,19 @@
 Better Teamwork
 
 Learning DevOps helps bring together development and operations teams, making communication and teamwork better. 
-This works together to cut down on delays, improve how things are coordinated, and make the software delivery process
- run more smoothly all through the development cycle.
+This works together to cut down on delays, improve how things are coordinated, and make the software delivery process 
+run more smoothly all through the development cycle.
 
- Faster Software Updates
 
- DevOps practices such as automation, continuous integration, and continuous deployment enable teams to release
-  software updates more quickly and with fewer mistakes. This results in more consistent testing, faster resolution 
-  of bugs, and improved overall product performance.
+Faster Software Updates
+
+DevOps practices such as automation, continuous integration, and continuous deployment enable teams to release 
+software updates more quickly and with fewer mistakes. This results in more consistent testing, faster resolution 
+of bugs, and improved overall product performance.
+
+
+Useful Career Skills
+
+DevOps is a very important skill in the tech world. Learning it helps students get ready for actual software work, 
+where automation, using the cloud, and always improving are key for advancing in their careers and making projects 
+work well.
