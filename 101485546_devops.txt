@@ -1,0 +1,20 @@
+Course Overview 
+
+COMP 3104 – DevOps teaches students the main ideas, tools, and methods that link software development with 
+operations. The class covers automation, teamwork, continuous integration (CI), continuous deployment (CD), 
+and cloud management — all important skills for today’s technology professionals.
+
+
+Tools and Learning Focus
+
+Students work directly with tools such as Git, GitHub, Jenkins, Travis CI, Docker, and Jira. They learn how to 
+manage versions of code, automate building processes, set up continuous integration and delivery pipelines, and 
+use testing methods. They also study scripting and how to track projects, which helps them use DevOps practices 
+in actual work environments.
+
+
+Evaluation and Outcomes
+
+Assessments consist of labs, quizzes, assignments, and exams, and some of them let students use AI but only 
+following specific rules. By the end of the course, students develop the technical and professional skills needed 
+for DevOps careers, covering topics like automation, cloud technologies, and current industry trends.
