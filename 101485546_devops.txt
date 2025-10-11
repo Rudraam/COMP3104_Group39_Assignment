@@ -1,0 +1,6 @@
+Course Overview 
+
+COMP 3104 – DevOps teaches students the main ideas, tools, and methods that link software development with 
+operations. The class covers automation, teamwork, continuous integration (CI), continuous deployment (CD), 
+and cloud management — all important skills for today’s technology professionals.
+
